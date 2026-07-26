@@ -1,35 +1,31 @@
-#Manhattan Vacation Rental Market Analysis Project
+# Manhattan Vacation Rental Market Analysis Project
 
 
 
-#Description
+# Description
 
 The project task was to analyze the Manhattan vacation rental market using Airbnb listing data to identify trends and provide investment recommendations.
 
 
 
-#Table of Contents For Repository Artifacts
+# Table of Contents For Repository Artifacts
 
 | File number | Title | Description |
-
 | :-----------: | ----------- |----------- |
-
-| 1 | README.md | The current page.|
-
+| 1 | ManhattanVacationRentalsAnalysis_ Project | The Excel file containing the project.|
 | 2 | Project Rubric | A PDF file used for grading.|
-
-| 3 | ManhattanVacationRentalsAnalysis_ Project | The excel file containing the project.|
-
+| 3 | README.md | The current page.|
 
 
-#Description
+
+# Description
 
 * 10-page spreadsheet
 * Includes organizational tabs, raw data (Hidden), processed data, data analysis, pivot tables, and bar charts. Projects Google Speadsheet can be found [HERE](https://docs.google.com/spreadsheets/d/1WJJnOELNcAPygy5hiBHgf1pls8_iNpix1pQb7aL7Fy8/edit?usp=sharing).
 
 
 
-#Process
+# Process
 
 1. Cleaned and prepared the data by standardizing neighborhood names (removing inconsistent capitalization and extra spaces) and replacing missing bedroom values with to represent studio apartments.
 
@@ -63,7 +59,7 @@ The project task was to analyze the Manhattan vacation rental market using Airbn
 
 
 
-#Data
+# Data
 
 
 
@@ -71,7 +67,7 @@ The project data was provided via a Google spreadsheet from TripleTen; a copy of
 
 
 
-#Assumptions
+# Assumptions
 
 * The top three most attractive neighborhoods are Lower East Side, Hell's Kitchen, and Harlem.
 * Studios, 1-bedrooms, and 2-bedrooms are the most popular property sizes.
@@ -80,9 +76,9 @@ The project data was provided via a Google spreadsheet from TripleTen; a copy of
 
 
 
-#Findings
+# Findings
 
-Based on the guest reviews from the past 12 months, ten neighborhoods were noted as the most attractive for vacation rentals: Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, and Upper East Side.
+Based on guest reviews over the past 12 months, 10 neighborhoods were identified as the most attractive for vacation rentals: Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, and Upper East Side.
 
 
 
